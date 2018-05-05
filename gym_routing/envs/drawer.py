@@ -1,5 +1,4 @@
 import sys
-
 import matplotlib
 
 if sys.platform == 'darwin':
